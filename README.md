@@ -25,7 +25,11 @@ The objective of this project is to automate Terraform code validation using Git
 ## GitHub Repository
 https://github.com/anuugyaag/terraform-ci-validation
 
+![Terraform CI](https://github.com/anuugyaag/terraform-ci-validation/actions/workflows/terraform.yml/badge.svg)
+
 ## Conclusion
 This project demonstrates how GitHub Actions can automate Terraform formatting and validation checks, helping maintain code quality and identify configuration errors.
+
+
 
 
